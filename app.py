@@ -10,9 +10,6 @@ def home():
     return "Hello World..!"
 
 
-@app.route('/api')
-def api():
-    return "Hello From Api...!"
 
 
 
